@@ -1,0 +1,7 @@
+.DS_Store
+*~
+compiled
+source
+src/compiled
+saved-boards/*
+!saved-boards/new-board.txt
